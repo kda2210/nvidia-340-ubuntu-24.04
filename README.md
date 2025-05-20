@@ -33,10 +33,13 @@ sudo apt update
 sudo apt install nvidia340
 
 🙏 A note from the author
+
 I’m a Linux user from Russia, living modestly — but I was determined not to give up on my old GPU.
+
 This was my first real experience in maintaining and publishing a complete PPA, with DKMS, postinst scripts, and meta-packages.
 
 💡 Without Andreas Beckmann’s prior packaging work, this would’ve never happened.
+
 Huge thanks to him for continuing Debian support even in 2025.
 
 P.S. This was my first full-fledged PPA.
