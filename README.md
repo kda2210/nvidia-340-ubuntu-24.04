@@ -22,6 +22,8 @@ Kubuntu 24.04
 
 Linux kernel: 6.8 ✅ & 6.11 ✅
 
+NVIDIA driver 340.108 does not support Wayland!
+
 🔗 PPA
 
 Add my PPA with:
