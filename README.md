@@ -46,4 +46,5 @@ P.S. This was my first full-fledged PPA.
 
 P.P.S. And damn, I’m proud of it.
 
+📸 Screenshots
 ![Screenshot_20250517_225624](https://github.com/user-attachments/assets/7e52c997-5a2c-4a79-bc61-0cc8ed119a38)
