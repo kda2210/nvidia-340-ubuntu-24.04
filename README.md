@@ -21,8 +21,11 @@ Linux kernel: 6.8 ✅ & 6.11 ✅
 
 🔗 PPA
 Add my PPA with:
+
 sudo add-apt-repository ppa:kda2210/nvidia340
+
 sudo apt update
+
 sudo apt install nvidia340
 
 🙏 A note from the author
