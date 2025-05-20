@@ -33,4 +33,5 @@ This was my first real experience in maintaining and publishing a complete PPA, 
 Huge thanks to him for continuing Debian support even in 2025.
 
 P.S. This was my first full-fledged PPA.
+
 P.P.S. And damn, I’m proud of it.
