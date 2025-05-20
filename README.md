@@ -1,7 +1,9 @@
 ✅ NVIDIA 340.108 Legacy Driver — Ubuntu 24.04 + Linux 6.11
+
 Fully working DKMS-based legacy driver for old NVIDIA GPUs — now on Ubuntu 24.04 (Noble) with kernel 6.11
 
 📦 What it includes:
+
 ✅ Kernel 6.11 compatibility via patched DKMS module
 
 ✅ Brightness control restored via GRUB patcher
@@ -13,6 +15,7 @@ Fully working DKMS-based legacy driver for old NVIDIA GPUs — now on Ubuntu 24.
 ✅ Meta-package (nvidia340) for one-command install
 
 🧪 Tested on:
+
 Ubuntu 24.04 LTS
 
 Kubuntu 24.04
@@ -20,6 +23,7 @@ Kubuntu 24.04
 Linux kernel: 6.8 ✅ & 6.11 ✅
 
 🔗 PPA
+
 Add my PPA with:
 
 sudo add-apt-repository ppa:kda2210/nvidia340
