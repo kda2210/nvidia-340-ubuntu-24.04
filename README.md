@@ -22,7 +22,11 @@ Kubuntu 24.04
 
 Linux kernel: 6.8 ✅ & 6.11 ✅
 
-⚠️ NVIDIA driver 340.108 does not support Wayland!
+<blockquote>
+  <strong>⚠️ NVIDIA driver 340.108 does <u>not</u> support Wayland!</strong><br>
+  Please switch to X11 for compatibility.
+</blockquote>
+
 
 🔗 PPA
 
