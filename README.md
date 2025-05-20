@@ -45,3 +45,5 @@ Huge thanks to him for continuing Debian support even in 2025.
 P.S. This was my first full-fledged PPA.
 
 P.P.S. And damn, I’m proud of it.
+
+![Screenshot_20250517_225624](https://github.com/user-attachments/assets/7e52c997-5a2c-4a79-bc61-0cc8ed119a38)
