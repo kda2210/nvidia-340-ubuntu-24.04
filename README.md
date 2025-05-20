@@ -32,6 +32,8 @@ sudo apt update
 
 sudo apt install nvidia340
 
+More info here: [Launchpad PPA](https://launchpad.net/~kda2210/+archive/ubuntu/nvidia340)
+
 🙏 A note from the author
 
 I’m a Linux user from Russia, living modestly — but I was determined not to give up on my old GPU.
