@@ -52,3 +52,20 @@ P.P.S. And damn, I’m proud of it.
 
 📸 Screenshots
 ![Screenshot_20250517_225624](https://github.com/user-attachments/assets/7e52c997-5a2c-4a79-bc61-0cc8ed119a38)
+
+---
+
+## ⚖️ License and Legal Notice
+
+This repository contains NO proprietary NVIDIA driver binaries or reverse-engineered code.
+
+All driver components are retrieved through Debian's `non-free` section and are subject to the NVIDIA Software License Agreement:  
+🔗 https://www.nvidia.com/content/DriverDownload-March2009/licence.php?lang=us
+
+Included here:
+
+- Debian packaging metadata and build structure (free software)
+- Helper scripts and DKMS patches for Linux 6.8–6.11
+- A meta-package for simple installation via Launchpad PPA
+
+This project is intended to assist with integration and usability only.
