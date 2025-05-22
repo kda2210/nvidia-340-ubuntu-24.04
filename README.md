@@ -32,9 +32,9 @@ Add my PPA with:
 
 sudo add-apt-repository ppa:kda2210/nvidia340
 
-sudo apt update
+sudo apt-get update
 
-sudo apt install nvidia340
+sudo apt-get install nvidia340
 
 More info here: [Launchpad PPA](https://launchpad.net/~kda2210/+archive/ubuntu/nvidia340)
 
